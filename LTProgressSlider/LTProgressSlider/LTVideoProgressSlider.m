@@ -25,7 +25,6 @@
     self = [super initWithFrame:frame];
     if (self) {
         self.backgroundColor = [UIColor clearColor];
-        
         _direction = direction;
         _minValue = 0.0f;
         _maxValue = 1.0f;

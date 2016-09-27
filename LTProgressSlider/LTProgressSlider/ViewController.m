@@ -26,8 +26,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self addVerticalSlider];
-//    [self addHorizontalSlider];
+//    [self addVerticalSlider];
+    [self addHorizontalSlider];
     
     [self setupConstrains];
     
